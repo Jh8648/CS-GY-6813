@@ -17,4 +17,4 @@ log(lastCharacter)
 myfile.writeat("LAMB",18)
 
 #add sentence to the end
-myfile.writeat("\nAnd the children loved the lamb as well.", endPosition+1)
+myfile.writeat("\nAnd the children loved the lamb as well.", endPosition + 1)
