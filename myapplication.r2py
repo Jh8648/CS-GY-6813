@@ -8,7 +8,7 @@ lengthOfFile = len(myfile.readat(None,0))
 log(lengthOfFile)
 
 
-endPosition = lengthOfFile - -14
+endPosition = lengthOfFile - 1
 lastCharacter =  myfile.readat(1,endPosition)
 log(lastCharacter)
 
